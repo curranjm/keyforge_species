@@ -210,8 +210,6 @@ MANIPULATION
 
 DOMINANT SENSE
 18 - Olfactory
-Do not add disadvantage on checks due to visual obscurement.
-Strong odors can add disadvantage.
 
 FEATURES
 23 - Digger
