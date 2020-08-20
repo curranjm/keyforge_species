@@ -1,5 +1,7 @@
 # Overviews
 
+-----
+
 ## Dusoz
 
 ### Description
@@ -39,6 +41,8 @@ Gains Defense 1 (shielded).
 
 Start with one rank in resilience (rudimentary tech level)
 
+-----
+
 ## Alliaveare
 
 ### Description
@@ -76,6 +80,8 @@ halve dmg dealt to character before applying soak
 unless attacking weapon has Blast/Burn (regardless of whether activated)
 
 Start with one rank in Computers (highly advanced tech level)
+
+-----
 
 ## Guilt Ridden
 
@@ -117,7 +123,11 @@ Can tunnel through soil/stone, treat as difficult terrain (digger).
 
 Add 1 advantage to all charm/deception/negotiation (hypnotic).
 
+-----
+
 # Rolls
+
+The random rolls used to seed the above species.
 
 ## Dusoz
 
