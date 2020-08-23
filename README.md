@@ -41,6 +41,8 @@ Gains Defense 1 (shielded).
 
 Start with one rank in resilience (rudimentary tech level)
 
+Melee/Brawl attacks gain Ensnare 1 item quality (tentacle)
+
 -----
 
 ## Alliaveare
